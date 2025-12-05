@@ -1,0 +1,55 @@
+export const cardsArray = [{
+    avatar: '1.png',
+    title: 'The Ultimate Google Ads Training Course',
+    cource: 'Marketing',
+    price: '$100',
+    author: 'by Jerome Bell', 
+}, {
+    avatar: '2.png',
+    title: 'Product Management Fundamentals',
+    cource: 'Management',
+    price: '$480',
+    author: 'by Marvin McKinney',
+},{
+    avatar: '3.png',
+    title: 'HR  Management and Analytics',
+    cource: 'HR & Recruting',
+    price: '$200',
+    author: 'by Leslie Alexander Li',
+},{
+    avatar: '4.png',
+    title: 'Brand Management & PR Communicationse',
+    cource: 'Marketing',
+    price: '$530',
+    author: 'by Kristin Watson',
+},{
+    avatar: '5.png',
+    title: 'Graphic Design Basic',
+    cource: 'Design',
+    price: '$500',
+    author: 'by Guy Hawkins',
+},{
+    avatar: '6.png',
+    title: 'Business Development Management',
+    cource: 'Management',
+    price: '$400',
+    author: 'by Dianne Russell',
+},{
+    avatar: '7.png',
+    title: 'Highload Software Architecture',
+    cource: 'Development',
+    price: '$600',
+    author: 'by Brooklyn Simmons',
+},{
+    avatar: '8.png',
+    title: 'Human Resources – Selection and Recruitment',
+    cource: 'HR & Recruting',
+    price: '$150',
+    author: 'by Kathryn Murphy',
+},{
+    avatar: '9.png',
+    title: 'User Experience. Human-centered Design',
+    cource: 'Design',
+    price: '$240',
+    author: 'by Cody Fisher',
+}]
