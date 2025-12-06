@@ -315,4 +315,32 @@ ul {
     border-radius: 4px;
     color: var(--color-primary);
   }
+
+  &__show-list {
+    animation: .3s ease-in-out show-list;
+  }
+
+  &__hide-list {
+    animation: 1s ease-in-out hide-list;
+  }
+
+}
+
+@keyframes hide-list {
+  from {
+    opacity: 1;
+  } to {
+    transform: translateX(-50%);
+    opacity: 0;
+  }
+}
+
+@keyframes show-list {
+  from {
+    transform: translateX(50%);
+    opacity: 0;
+  } to {
+    transform: translateX(0);
+    opacity: 1;
+  }
 }

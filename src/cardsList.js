@@ -1,4 +1,4 @@
-export const cardsArray = [{
+export const cardsList = [{
     avatar: '1.png',
     title: 'The Ultimate Google Ads Training Course',
     cource: 'Marketing',
