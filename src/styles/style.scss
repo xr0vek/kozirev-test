@@ -175,7 +175,7 @@ ul {
     opacity: 0.5;
   }
 
-  &__choice-item-btn:focus  {
+  &__choice-item-btn:focus-visible  {
     outline: none;
     border-color: var(--color-gray-700);
   }
@@ -303,7 +303,7 @@ ul {
     opacity: 0.7;
   }
 
-  &__load-more:focus {
+  &__load-more:focus-visible {
     outline: none;
     border-color: var(--color-gray-800)
   }
